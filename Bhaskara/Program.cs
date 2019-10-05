@@ -16,7 +16,6 @@ namespace Bhaskara
             System.Console.WriteLine("-----------------------------");
             System.Console.WriteLine();
             System.Console.WriteLine("Aperte ENTER para continuar!");
-            System.Console.WriteLine("Digite '0' para sair!");
             Console.ReadLine();
             Console.Clear();
             
@@ -31,19 +30,28 @@ namespace Bhaskara
             double delta;
             double bhaskara1;
             double bhaskara2;
+            double valorcima1;
+            double valorcima2;
+            double valorbaixo;
+
             delta = ((icgnB*icgnB) - (4 * icgnA * icgnC));
             if (delta >= 0)
             {   
                 Console.Clear();
-                
+
+                valorbaixo = (2 * icgnA);
+                valorcima1 = (-(icgnB) + (Math.Sqrt(delta)));
+                valorcima2 = (-(icgnB) - (Math.Sqrt(delta)));
                 bhaskara1 = (-(icgnB) + (Math.Sqrt(delta))) / (2 * icgnA);
                 bhaskara2 = (-(icgnB) - (Math.Sqrt(delta))) / (2 * icgnA);
+
                 System.Console.WriteLine($"O valor de Delta é: {delta}");
-                System.Console.WriteLine($"O resultado da primeira raíz é: {bhaskara1}");
-                System.Console.WriteLine($"O resultado da segunda raíz é: {bhaskara2}");
+                System.Console.WriteLine($"O resultado da primeira raíz é: {valorcima1} / {valorbaixo} = {bhaskara1}");
+                System.Console.WriteLine($"O resultado da segunda raíz é: {valorcima2} / {valorbaixo} = {bhaskara2}");
+                
             } else {
                 System.Console.WriteLine("O valor de delta é: " + delta);
-                System.Console.WriteLine("Delta é um valor negativo, logo não pode haver Bháskara!");
+                System.Console.WriteLine("Delta é um valor negativo, logo não existe valor de Bháskara!");
             }
         }
     }
