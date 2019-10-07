@@ -9,3 +9,14 @@ C:\Users\rapma\OneDrive\Área de Trabalho\test c#\Bhaskara\obj\Debug\netcoreapp2
 C:\Users\rapma\OneDrive\Área de Trabalho\test c#\Bhaskara\obj\Debug\netcoreapp2.1\Bhaskara.AssemblyInfo.cs
 C:\Users\rapma\OneDrive\Área de Trabalho\test c#\Bhaskara\obj\Debug\netcoreapp2.1\Bhaskara.dll
 C:\Users\rapma\OneDrive\Área de Trabalho\test c#\Bhaskara\obj\Debug\netcoreapp2.1\Bhaskara.pdb
+C:\Users\35883602800\Desktop\csharp-mess\Bhaskara\bin\Debug\netcoreapp2.1\Bhaskara.deps.json
+C:\Users\35883602800\Desktop\csharp-mess\Bhaskara\bin\Debug\netcoreapp2.1\Bhaskara.runtimeconfig.json
+C:\Users\35883602800\Desktop\csharp-mess\Bhaskara\bin\Debug\netcoreapp2.1\Bhaskara.runtimeconfig.dev.json
+C:\Users\35883602800\Desktop\csharp-mess\Bhaskara\bin\Debug\netcoreapp2.1\Bhaskara.dll
+C:\Users\35883602800\Desktop\csharp-mess\Bhaskara\bin\Debug\netcoreapp2.1\Bhaskara.pdb
+C:\Users\35883602800\Desktop\csharp-mess\Bhaskara\obj\Debug\netcoreapp2.1\Bhaskara.csprojAssemblyReference.cache
+C:\Users\35883602800\Desktop\csharp-mess\Bhaskara\obj\Debug\netcoreapp2.1\Bhaskara.csproj.CoreCompileInputs.cache
+C:\Users\35883602800\Desktop\csharp-mess\Bhaskara\obj\Debug\netcoreapp2.1\Bhaskara.AssemblyInfoInputs.cache
+C:\Users\35883602800\Desktop\csharp-mess\Bhaskara\obj\Debug\netcoreapp2.1\Bhaskara.AssemblyInfo.cs
+C:\Users\35883602800\Desktop\csharp-mess\Bhaskara\obj\Debug\netcoreapp2.1\Bhaskara.dll
+C:\Users\35883602800\Desktop\csharp-mess\Bhaskara\obj\Debug\netcoreapp2.1\Bhaskara.pdb

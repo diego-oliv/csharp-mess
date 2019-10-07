@@ -688,28 +688,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rapma\\.nuget\\packages\\": {},
+    "C:\\Users\\35883602800\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rapma\\OneDrive\\Área de Trabalho\\test c#\\Bhaskara\\Bhaskara.csproj",
+      "projectUniqueName": "C:\\Users\\35883602800\\Desktop\\csharp-mess\\Bhaskara\\Bhaskara.csproj",
       "projectName": "Bhaskara",
-      "projectPath": "C:\\Users\\rapma\\OneDrive\\Área de Trabalho\\test c#\\Bhaskara\\Bhaskara.csproj",
-      "packagesPath": "C:\\Users\\rapma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rapma\\OneDrive\\Área de Trabalho\\test c#\\Bhaskara\\obj\\",
+      "projectPath": "C:\\Users\\35883602800\\Desktop\\csharp-mess\\Bhaskara\\Bhaskara.csproj",
+      "packagesPath": "C:\\Users\\35883602800\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\35883602800\\Desktop\\csharp-mess\\Bhaskara\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\rapma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\35883602800\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -727,6 +729,7 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true

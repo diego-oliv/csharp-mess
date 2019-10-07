@@ -7,16 +7,19 @@ namespace Bhaskara
         static void Main(string[] args)
         {
             Console.Clear();
+
+            string option;             
             double icgnA;
             double icgnB;
             double icgnC;
-            
+
             System.Console.WriteLine("-----------------------------");
             System.Console.WriteLine("     Cálculo de Bháskara     ");
             System.Console.WriteLine("-----------------------------");
             System.Console.WriteLine();
             System.Console.WriteLine("Aperte ENTER para continuar!");
-            Console.ReadLine();
+            System.Console.WriteLine("Digite 'f' para sair");
+            option = Console.ReadLine();
             Console.Clear();
             
             System.Console.WriteLine("** Digite os valores das icógnitas **");
@@ -26,6 +29,7 @@ namespace Bhaskara
             icgnB = double.Parse(Console.ReadLine());
             System.Console.Write("Digite o valor de 'c': ");
             icgnC = double.Parse(Console.ReadLine());
+            
             
             double delta;
             double bhaskara1;
