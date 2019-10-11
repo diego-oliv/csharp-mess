@@ -1,0 +1,11 @@
+C:\Users\35883602800\Desktop\csharp-mess\beep\bin\Debug\netcoreapp2.2\beep.deps.json
+C:\Users\35883602800\Desktop\csharp-mess\beep\bin\Debug\netcoreapp2.2\beep.runtimeconfig.json
+C:\Users\35883602800\Desktop\csharp-mess\beep\bin\Debug\netcoreapp2.2\beep.runtimeconfig.dev.json
+C:\Users\35883602800\Desktop\csharp-mess\beep\bin\Debug\netcoreapp2.2\beep.dll
+C:\Users\35883602800\Desktop\csharp-mess\beep\bin\Debug\netcoreapp2.2\beep.pdb
+C:\Users\35883602800\Desktop\csharp-mess\beep\obj\Debug\netcoreapp2.2\beep.csprojAssemblyReference.cache
+C:\Users\35883602800\Desktop\csharp-mess\beep\obj\Debug\netcoreapp2.2\beep.csproj.CoreCompileInputs.cache
+C:\Users\35883602800\Desktop\csharp-mess\beep\obj\Debug\netcoreapp2.2\beep.AssemblyInfoInputs.cache
+C:\Users\35883602800\Desktop\csharp-mess\beep\obj\Debug\netcoreapp2.2\beep.AssemblyInfo.cs
+C:\Users\35883602800\Desktop\csharp-mess\beep\obj\Debug\netcoreapp2.2\beep.dll
+C:\Users\35883602800\Desktop\csharp-mess\beep\obj\Debug\netcoreapp2.2\beep.pdb
